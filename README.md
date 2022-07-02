@@ -1,1 +1,1 @@
-# Communications and Networks University of Edinburgh CW-
+# Communications and Networks University of Edinburgh
